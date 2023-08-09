@@ -1,0 +1,21 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/polycythaemia-vera---primary.py
+inputModule3:
+  class: File
+  path: python/polycythaemia---primary.py
+inputModule4:
+  class: File
+  path: python/polycythaemia-vera-rubra---primary.py
+inputModule5:
+  class: File
+  path: python/polycythaemia-vera-[m]polycythaemia---primary.py
+inputModule6:
+  class: File
+  path: python/vera-polycythaemia---secondary.py
+inputModule7:
+  class: File
+  path: python/output-cases.py
